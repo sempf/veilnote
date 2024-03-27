@@ -103,6 +103,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
+            
             Text(
               'Welcome to VeilNote! Delete this and add your own notes.',
               style: Theme.of(context).textTheme.bodyLarge,
