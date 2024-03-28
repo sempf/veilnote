@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
             TextField(
               decoration: const InputDecoration(
                 border: OutlineInputBorder(),
-                contentPadding: EdgeInsets.all(20.0),
+                contentPadding: EdgeInsets.all(8.8),
                 hintText:
                     'Welcome to VeilNote! Delete this and add your own note.',
               ),
